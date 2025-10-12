@@ -51,12 +51,6 @@ It demonstrates signal acquisition, threshold-based decision-making, and real-ti
 
 ---
 
-## System Block Diagram
-
-![Block Diagram](images/block_diagram.png)
-
----
-
 ## Source Code
 
 See [(https://github.com/MEENAJASMINE26/EMG-Gesture-Control/blob/main/Electromyography_based_gesture_control.ino)]
