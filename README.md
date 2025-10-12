@@ -49,8 +49,6 @@ It demonstrates signal acquisition, threshold-based decision-making, and real-ti
 - Device 2 (Fan) → Digital Pin 4  
 - Device 3 (Buzzer) → Digital Pin 5  
 
-*(Add circuit diagram image here, e.g., `images/block_diagram.png`)*
-
 ---
 
 ## System Block Diagram
@@ -65,7 +63,7 @@ See [emg_gesture_control.ino](emg_gesture_control.ino)
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 - Implement signal filtering to reduce noise  
 - Add gesture classification for multiple muscle movements  
 - Replace delay() with millis() for non-blocking control  
@@ -73,6 +71,3 @@ See [emg_gesture_control.ino](emg_gesture_control.ino)
 - Add LCD/OLED display to show real-time voltage and device status  
 
 ---
-
-## 📸 Project Demo
-*(Add project photos, short video link, or GIF here)*
